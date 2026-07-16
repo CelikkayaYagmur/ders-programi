@@ -1,0 +1,21 @@
+.task
+bin
+frontend/dist
+frontend/node_modules
+build/linux/appimage/build
+build/windows/nsis/MicrosoftEdgeWebview2Setup.exe
+# Mobile generated (per-machine; overlays hold absolute paths)
+build/ios/xcode/overlay.json
+build/ios/xcode/gen/
+build/android/overlay.json
+build/android/gen/
+# Ek — işletim sistemi ve editör
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Yerel veri
+*.db
+*.sqlite
+*.sqlite3
