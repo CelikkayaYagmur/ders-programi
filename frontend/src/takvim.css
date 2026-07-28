@@ -8,12 +8,36 @@ body {
   display: block;
 }
 
+/* Global Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 6px;
+  border: 3px solid #f4f6fb;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
 .takvim-sayfa {
-  min-height: 100vh;
-  padding: 28px 32px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 32px;
   background: #f4f6fb;
   color: #1f2733;
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  --wails-draggable: no-drag;
+  --slot-size: 72px;
 }
 
 .takvim-baslik {
@@ -33,59 +57,980 @@ body {
   color: #6b7684;
 }
 
-/* 6 sütun: sol saat etiketi (96px) + 5 gün (eşit genişlik). */
-.takvim {
+/* 8 sütun: sol saat etiketi (80px) + 7 gün (eşit genişlik). */
+.takvim-tablo {
+  flex: 1;
+  min-height: 0;
   display: grid;
-  grid-template-columns: 96px repeat(5, 1fr);
-  gap: 6px;
-  /* Izgara içinde kart sürüklerken pencere kaymasın diye pencere-sürüklemeyi kapatıyoruz. */
+  grid-template-columns: 80px repeat(7, 1fr);
+  gap: 0;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  background: #ffffff;
+  overflow-y: auto;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
   --wails-draggable: no-drag;
 }
 
 .takvim-gun-baslik {
   text-align: center;
   font-weight: 600;
-  font-size: 14px;
-  color: #3a4553;
-  padding: 8px 0;
+  font-size: 13px;
+  color: #475569;
+  padding: 12px 0;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  border-right: 1px solid #e2e8f0;
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
 
-.takvim-saat-baslik {
+.takvim-gun-baslik:last-child {
+  border-right: none;
+}
+
+.takvim-kose {
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  border-right: 1px solid #e2e8f0;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.takvim-timeline-kolon {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  height: calc(64 * var(--slot-size));
+  /* 16 hours * 4 slots */
+  border-right: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.takvim-saat-etiket-grubu {
+  height: calc(4 * var(--slot-size));
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.takvim-saat-etiket-sub {
+  height: var(--slot-size);
+  display: flex;
+  align-items: flex-start;
   justify-content: flex-end;
   padding-right: 12px;
-  font-size: 12px;
-  color: #8a94a3;
-  white-space: nowrap;
+  font-size: 11px;
+  box-sizing: border-box;
 }
 
-.takvim-hucre {
-  min-height: 66px;
+.takvim-saat-etiket-sub.main-saat {
+  font-weight: 500;
+  color: #94a3b8;
+  transform: translateY(-4px);
+}
+
+.takvim-saat-etiket-sub.tick-saat {
+  font-weight: 700;
+  font-size: 13px;
+  color: #94a3b8;
+  transform: translateY(-4px);
+  padding-right: 4px;
+}
+
+.takvim-gun-kolon {
+  position: relative;
+  height: calc(64 * var(--slot-size));
+  /* 16 hours * 4 slots */
   background: #ffffff;
-  border: 1px solid #e6eaf0;
-  border-radius: 8px;
-  padding: 4px;
+  border-right: 1px solid #e2e8f0;
+  box-sizing: border-box;
+}
+
+.takvim-gun-kolon:last-child {
+  border-right: none;
+}
+
+.takvim-kolon-arka-plan-hucre-sub {
+  height: var(--slot-size);
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.takvim-kolon-arka-plan-hucre-sub.saat-siniri {
+  border-bottom: 1.5px solid #cbd5e1;
+}
+
+.takvim-kolon-arka-plan-hucre-sub.quarter-siniri {
+  border-bottom: 1px dashed #e2e8f0;
+}
+
+.takvim-kolon-arka-plan-hucre-sub:last-child {
+  border-bottom: none;
+}
+
+.takvim-kolon-arka-plan-hucre-sub:hover {
+  background-color: #f8fafc;
 }
 
 .oturum-kart {
-  height: 100%;
+  position: absolute;
+  left: 4px;
+  right: 4px;
+  border-radius: 8px;
+  padding: 8px 10px;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  gap: 3px;
-  padding: 8px 10px;
-  border-radius: 6px;
-  background: #e8f0fe;
-  border-left: 3px solid #4c7ef3;
+  gap: 2px;
+  cursor: grab;
+  user-select: none;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  z-index: 5;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  overflow: hidden;
+}
+
+.oturum-kart:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+  transform: translateY(-1px);
+}
+
+.oturum-kart.dragging {
+  cursor: grabbing;
+  opacity: 0.85;
+  z-index: 100;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -5px rgba(0, 0, 0, 0.08);
+  transform: scale(1.02);
+  transition: none !important;
+}
+
+.oturum-kart-accent {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 }
 
 .oturum-ders {
+  font-weight: 700;
+  font-size: 14.5px;
+  color: #1e293b;
+  margin-left: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.oturum-detaylar {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-left: 2px;
+}
+
+.oturum-detay-satir {
+  font-size: 12px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.kart-resize-kulp {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  cursor: ns-resize;
+  background: transparent;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kart-resize-kulp:hover::after {
+  content: '';
+  width: 28px;
+  height: 3px;
+  background: rgba(148, 163, 184, 0.6);
+  border-radius: 2px;
+}
+
+/* Çakışma Uyarısı */
+.oturum-kart.cakisma {
+  border-color: #fca5a5;
+  background: #fef2f2;
+}
+
+.oturum-kart.cakisma .oturum-ders {
+  color: #991b1b;
+}
+
+/* Kısa Ders Kartları (1 veya 2 saat) İçin Sıkıştırılmış Görünüm */
+.oturum-kart.kisa-kart {
+  padding: 4px 8px;
+  gap: 1px;
+}
+
+.oturum-kart.kisa-kart .oturum-detaylar {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.oturum-kart.cok-kisa-kart {
+  padding: 2px 6px;
+}
+
+.oturum-kart.cok-kisa-kart .oturum-ders {
+  font-size: 11.5px;
+}
+
+.oturum-kart.cok-kisa-kart .oturum-detay-satir {
+  font-size: 10px;
+}
+
+/* Sürükleme Hedefi Önizleme */
+.drag-onizleme-yer {
+  position: absolute;
+  left: 4px;
+  right: 4px;
+  border-radius: 8px;
+  border: 2px dashed #3b82f6;
+  background: rgba(59, 130, 246, 0.05);
+  box-sizing: border-box;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Modallar */
+.takvim-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 23, 42, 0.5);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: fadeIn 0.15s ease-out;
+  --wails-draggable: no-drag;
+}
+
+.takvim-modal {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 440px;
+  max-width: 90%;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  padding: 24px;
+  animation: slideUp 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+  border: 1px solid #e2e8f0;
+}
+
+.modal-baslik {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f1f5f9;
+  padding-bottom: 12px;
+}
+
+.modal-form-grup {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.modal-form-grup label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #475569;
+}
+
+.modal-select,
+.modal-input {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  font-size: 0.85rem;
+  outline: none;
+  transition: all 0.15s ease;
+  background: #ffffff;
+  color: #1e293b;
+}
+
+.modal-select:focus,
+.modal-input:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.modal-butonlar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 24px;
+  border-top: 1px solid #f1f5f9;
+  padding-top: 16px;
+}
+
+.modal-btn-iptal {
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  color: #475569;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
   font-weight: 600;
-  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.modal-btn-iptal:hover {
+  background: #e2e8f0;
+}
+
+.modal-btn-kaydet {
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.modal-btn-kaydet:hover {
+  background: #2563eb;
+}
+
+.modal-btn-sil {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  margin-right: auto;
+}
+
+.modal-btn-sil:hover {
+  background: #dc2626;
+}
+
+.sube-secici-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #ffffff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  margin-bottom: 18px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+.sube-secici-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #475569;
+}
+
+.sube-secici-select {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: #ffffff;
+  color: #1f2733;
+  outline: none;
+}
+
+.cakismalar-kutusu {
+  margin-top: 20px;
+  background: #fff5f5;
+  border: 1px solid #fee2e2;
+  border-radius: 8px;
+  padding: 14px;
+}
+
+.cakismalar-baslik {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #991b1b;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cakisma-liste {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.cakisma-madde {
+  font-size: 0.75rem;
+  color: #b91c1c;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Layout and Sliding Transitions */
+.viewport-wrapper {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  --wails-draggable: no-drag;
+}
+
+.pages-vertical-slider {
+  width: 100%;
+  height: 300vh;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.6s cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+.pages-vertical-slider.show-calendar {
+  transform: translateY(0);
+}
+
+.pages-vertical-slider.show-data {
+  transform: translateY(-100vh);
+}
+
+.pages-vertical-slider.show-assignments {
+  transform: translateY(-200vh);
+}
+
+.page-section {
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/* Page Header */
+.page-header {
+  padding: 16px 32px;
+  border-bottom: 1px solid #e6eaf0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  z-index: 20;
+}
+
+.header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.brand-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand-title {
+  font-size: 1.15rem;
+  font-weight: 700;
   color: #1f2733;
 }
 
-.oturum-hoca {
-  font-size: 11px;
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nav-toggle-btn {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  color: #334155;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.15s ease;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.nav-toggle-btn:hover {
+  background: #f8fafc;
+  color: #4c7ef3;
+  border-color: #4c7ef3;
+}
+
+/* Data Workspace Layout */
+.data-workspace {
+  flex: 1;
+  padding: 24px 32px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  overflow-y: auto;
+  min-height: 0;
+  background: #f4f6fb;
+}
+
+.data-workspace::-webkit-scrollbar {
+  width: 8px;
+}
+
+.data-workspace::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+}
+
+/* Column styling */
+.data-card-column {
+  background: #ffffff;
+  border: 1px solid #e6eaf0;
+  border-radius: 10px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: calc(100vh - 120px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
+
+.column-header {
+  border-bottom: 1px solid #e6eaf0;
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.column-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #1f2733;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.column-title svg {
+  color: #4c7ef3;
+}
+
+.column-count {
+  font-size: 0.7rem;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1px 6px;
+  color: #475569;
+  font-weight: 700;
+}
+
+/* Forms styling */
+.data-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: #f8fafc;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.text-input {
+  flex: none !important;
+  background: #ffffff !important;
+  border: 1px solid #cbd5e1 !important;
+  color: #1f2733 !important;
+  padding: 6px 8px !important;
+  border-radius: 6px !important;
+  font-size: 0.75rem !important;
+  outline: none !important;
+  transition: all 0.15s ease;
+  color-scheme: light !important;
+}
+
+.text-input:focus {
+  border-color: #4c7ef3 !important;
+  box-shadow: 0 0 0 2px rgba(76, 126, 243, 0.08) !important;
+}
+
+.primary-btn {
+  background: #4c7ef3;
+  border: none;
+  color: white;
+  padding: 6px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.75rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+}
+
+.primary-btn:hover {
+  background: #3967d2;
+}
+
+input[type="text"].column-search-input {
+  flex: none !important;
+  width: 100% !important;
+  background: #ffffff !important;
+  border: 1px solid #cbd5e1 !important;
+  color: #1f2733 !important;
+  padding: 6px 8px !important;
+  border-radius: 6px !important;
+  font-size: 0.75rem !important;
+  outline: none !important;
+  transition: border-color 0.2s ease;
+  margin-bottom: 4px;
+}
+
+input[type="text"].column-search-input:focus {
+  border-color: #4c7ef3 !important;
+}
+
+/* Item List */
+.column-item-list {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.column-item-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.column-item-list::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: 2px;
+}
+
+.list-item {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 8px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.15s ease;
+}
+
+.list-item:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+}
+
+.item-name {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #1f2733;
+  word-break: break-all;
+}
+
+.item-sub {
+  font-size: 0.65rem;
   color: #6b7684;
+  margin-top: 1px;
+}
+
+.delete-btn {
+  background: transparent;
+  border: none;
+  color: #8a94a3;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+
+.delete-btn:hover {
+  color: #dc2626;
+  background: #fff5f5;
+}
+
+/* Force dark text and light background for calendar and data inputs, overriding global style.css selector specificity */
+.text-input,
+.modal-input,
+.modal-select,
+.column-search-input {
+  color: #1e293b !important;
+  background-color: #ffffff !important;
+}
+
+/* Custom Warning Toast Notification */
+.takvim-toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: #ef4444;
+  /* Red warning background */
+  color: #ffffff;
+  padding: 12px 18px;
+  border-radius: 8px;
+  box-shadow: 0 10px 15px -3px rgba(239, 68, 68, 0.3), 0 4px 6px -4px rgba(239, 68, 68, 0.3);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 100000;
+  max-width: 380px;
+  animation: slideInLeft 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  border: 1px solid #dc2626;
+  white-space: pre-line;
+  /* Support \n newlines */
+}
+
+.takvim-toast-mesaj {
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.takvim-toast-kapat {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease;
+}
+
+.takvim-toast-kapat:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Custom Print Styles */
+@media print {
+  @page {
+    size: A2 landscape;
+    margin: 20mm;
+  }
+
+  .global-header {
+    display: none !important;
+  }
+
+  .print-header {
+    display: block !important;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 10px;
+  }
+
+  .print-header h2 {
+    margin: 0 0 5px 0;
+    font-size: 20px;
+    color: #1e293b;
+  }
+
+  .print-header p {
+    margin: 0;
+    font-size: 12px;
+    color: #64748b;
+    font-weight: 600;
+  }
+
+  .sube-secici-bar,
+  .cakismalar-kutusu,
+  .takvim-toast,
+  .nav-toggle-btn,
+  .takvim-baslik,
+  .takvim-modal-overlay {
+    display: none !important;
+  }
+
+  .pages-vertical-slider {
+    transform: none !important;
+    height: auto !important;
+  }
+
+  .pages-vertical-slider.show-calendar .page-section:nth-child(2) {
+    display: none !important;
+  }
+
+  .pages-vertical-slider.show-data .page-section:nth-child(1) {
+    display: none !important;
+  }
+
+  body,
+  html,
+  #app,
+  .viewport-wrapper,
+  .page-section,
+  .takvim-sayfa {
+    background: #ffffff !important;
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .takvim-tablo {
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .takvim-sayfa {
+    --slot-size: 48px !important;
+    /* Make gaps larger for PDF readability */
+  }
+
+  .takvim-timeline-kolon,
+  .takvim-gun-kolon {
+    height: calc((var(--print-slots, 64) - var(--print-start-slot, 0)) * var(--slot-size)) !important;
+    overflow: hidden !important;
+    border-bottom: 1px solid #cbd5e1;
+  }
+
+  .takvim-saat-etiket-grubu,
+  .takvim-kolon-arka-plan-hucre-sub,
+  .oturum-kart {
+    transform: translateY(calc(-1 * var(--print-start-slot, 0) * var(--slot-size))) !important;
+  }
+
+  .oturum-kart {
+    box-shadow: none !important;
+    border-left-width: 4px !important;
+    page-break-inside: avoid;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}
+
+.takvim-toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 9999;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+.takvim-toast-mesaj {
+  font-size: 14px;
+}
+
+.takvim-toast-kapat {
+  background: transparent;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }

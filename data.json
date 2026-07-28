@@ -1,0 +1,9253 @@
+{
+  "hocalar": [
+    {
+      "ID": 26,
+      "Ad": "Hoca Matematik 1"
+    },
+    {
+      "ID": 28,
+      "Ad": "Hoca Matematik 2"
+    },
+    {
+      "ID": 30,
+      "Ad": "Hoca Matematik 3"
+    },
+    {
+      "ID": 33,
+      "Ad": "Hoca Fizik 1"
+    },
+    {
+      "ID": 35,
+      "Ad": "Hoca Fizik 2"
+    },
+    {
+      "ID": 37,
+      "Ad": "Hoca Fizik 3"
+    },
+    {
+      "ID": 40,
+      "Ad": "Hoca Kimya 1"
+    },
+    {
+      "ID": 42,
+      "Ad": "Hoca Kimya 2"
+    },
+    {
+      "ID": 44,
+      "Ad": "Hoca Kimya 3"
+    },
+    {
+      "ID": 47,
+      "Ad": "Hoca Biyoloji 1"
+    },
+    {
+      "ID": 49,
+      "Ad": "Hoca Biyoloji 2"
+    },
+    {
+      "ID": 51,
+      "Ad": "Hoca Biyoloji 3"
+    },
+    {
+      "ID": 54,
+      "Ad": "Hoca Edebiyat 1"
+    },
+    {
+      "ID": 56,
+      "Ad": "Hoca Edebiyat 2"
+    },
+    {
+      "ID": 58,
+      "Ad": "Hoca Edebiyat 3"
+    },
+    {
+      "ID": 61,
+      "Ad": "Hoca Tarih 1"
+    },
+    {
+      "ID": 63,
+      "Ad": "Hoca Tarih 2"
+    },
+    {
+      "ID": 65,
+      "Ad": "Hoca Tarih 3"
+    },
+    {
+      "ID": 68,
+      "Ad": "Hoca Ingilizce 1"
+    },
+    {
+      "ID": 70,
+      "Ad": "Hoca Ingilizce 2"
+    },
+    {
+      "ID": 72,
+      "Ad": "Hoca Ingilizce 3"
+    },
+    {
+      "ID": 75,
+      "Ad": "Hoca Beden Egitimi 1"
+    },
+    {
+      "ID": 77,
+      "Ad": "Hoca Beden Egitimi 2"
+    },
+    {
+      "ID": 79,
+      "Ad": "Hoca Beden Egitimi 3"
+    }
+  ],
+  "dersler": [
+    {
+      "ID": 25,
+      "Ad": "Matematik"
+    },
+    {
+      "ID": 32,
+      "Ad": "Fizik"
+    },
+    {
+      "ID": 39,
+      "Ad": "Kimya"
+    },
+    {
+      "ID": 46,
+      "Ad": "Biyoloji"
+    },
+    {
+      "ID": 53,
+      "Ad": "Edebiyat"
+    },
+    {
+      "ID": 60,
+      "Ad": "Tarih"
+    },
+    {
+      "ID": 67,
+      "Ad": "Ingilizce"
+    },
+    {
+      "ID": 74,
+      "Ad": "Beden Egitimi"
+    }
+  ],
+  "subeler": [
+    {
+      "ID": 1,
+      "Ad": "1A"
+    },
+    {
+      "ID": 2,
+      "Ad": "1B"
+    },
+    {
+      "ID": 3,
+      "Ad": "2A"
+    },
+    {
+      "ID": 4,
+      "Ad": "2B"
+    },
+    {
+      "ID": 5,
+      "Ad": "3A"
+    },
+    {
+      "ID": 6,
+      "Ad": "3B"
+    },
+    {
+      "ID": 7,
+      "Ad": "4A"
+    },
+    {
+      "ID": 8,
+      "Ad": "4B"
+    },
+    {
+      "ID": 9,
+      "Ad": "5A"
+    },
+    {
+      "ID": 10,
+      "Ad": "5B"
+    },
+    {
+      "ID": 11,
+      "Ad": "6A"
+    },
+    {
+      "ID": 12,
+      "Ad": "6B"
+    },
+    {
+      "ID": 13,
+      "Ad": "7A"
+    },
+    {
+      "ID": 14,
+      "Ad": "7B"
+    },
+    {
+      "ID": 15,
+      "Ad": "8A"
+    },
+    {
+      "ID": 16,
+      "Ad": "8B"
+    },
+    {
+      "ID": 17,
+      "Ad": "9A"
+    },
+    {
+      "ID": 18,
+      "Ad": "9B"
+    },
+    {
+      "ID": 19,
+      "Ad": "10A"
+    },
+    {
+      "ID": 20,
+      "Ad": "10B"
+    },
+    {
+      "ID": 21,
+      "Ad": "11A"
+    },
+    {
+      "ID": 22,
+      "Ad": "11B"
+    },
+    {
+      "ID": 23,
+      "Ad": "12A"
+    },
+    {
+      "ID": 24,
+      "Ad": "12B"
+    }
+  ],
+  "zoomlar": [
+    {
+      "ID": 1,
+      "Ad": ".com",
+      "Adres": ""
+    },
+    {
+      "ID": 2,
+      "Ad": ".com.tr",
+      "Adres": ""
+    },
+    {
+      "ID": 3,
+      "Ad": ".ee",
+      "Adres": ""
+    },
+    {
+      "ID": 4,
+      "Ad": ".by",
+      "Adres": ""
+    },
+    {
+      "ID": 5,
+      "Ad": ".uz",
+      "Adres": ""
+    },
+    {
+      "ID": 6,
+      "Ad": ".ru",
+      "Adres": ""
+    },
+    {
+      "ID": 7,
+      "Ad": ".md",
+      "Adres": ""
+    },
+    {
+      "ID": 8,
+      "Ad": ".kz",
+      "Adres": ""
+    },
+    {
+      "ID": 9,
+      "Ad": ".az",
+      "Adres": ""
+    },
+    {
+      "ID": 10,
+      "Ad": ".tm",
+      "Adres": ""
+    }
+  ],
+  "toplantiTur": [
+    {
+      "ID": 11,
+      "Ad": "seminer"
+    },
+    {
+      "ID": 43,
+      "Ad": "toplantı"
+    }
+  ],
+  "programOturumlari": [
+    {
+      "id": 18706,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18707,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18708,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18709,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18710,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 18711,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18712,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18713,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18714,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18715,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18716,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18717,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18718,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18719,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18720,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 18721,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18722,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18723,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18724,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18725,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18726,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18727,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18728,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18729,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 128,
+      "duration": 4
+    },
+    {
+      "id": 18730,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18731,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18732,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 18733,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18734,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18735,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 18736,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18737,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 1,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18738,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18739,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18740,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18741,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 18742,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18743,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18744,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18745,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 18746,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18747,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18748,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18749,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18750,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18751,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18752,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18753,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18754,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18755,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18756,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18757,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18758,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18759,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18760,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18761,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 18762,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18763,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18764,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18765,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18766,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 2,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18767,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18768,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 18769,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 2,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18770,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18771,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18772,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18773,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18774,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18775,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 3,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 18776,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 3,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 18777,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18778,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18779,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18780,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18781,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 3,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18782,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18783,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18784,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18785,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 3,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 18786,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18787,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 3,
+      "zoomId": 1,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18788,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 18789,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18790,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18791,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18792,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 18793,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18794,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18795,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18796,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18797,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18798,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18799,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 3,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18800,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18801,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 3,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18802,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 18803,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18804,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18805,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 18806,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18807,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18808,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18809,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18810,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18811,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18812,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18813,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18814,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18815,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18816,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18817,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18818,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18819,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18820,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 18821,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 18822,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18823,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18824,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18825,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18826,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18827,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 4,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18828,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 18829,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18830,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18831,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 18832,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 4,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18833,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 4,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 18834,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18835,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18836,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 5,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18837,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18838,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18839,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18840,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 18841,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18842,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18843,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18844,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 18845,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18846,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18847,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 18848,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18849,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18850,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18851,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18852,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18853,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 18854,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 18855,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18856,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 18857,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18858,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 5,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18859,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18860,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18861,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 5,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18862,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18863,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 5,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18864,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 5,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18865,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 5,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18866,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18867,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18868,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18869,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18870,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18871,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18872,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18873,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 6,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18874,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18875,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18876,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18877,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 18878,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18879,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 18880,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18881,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18882,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18883,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 6,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 18884,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 6,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18885,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 18886,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18887,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18888,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18889,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18890,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18891,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 6,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18892,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18893,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18894,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 6,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18895,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18896,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 6,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18897,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 6,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18898,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18899,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 7,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 18900,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18901,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18902,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18903,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 7,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18904,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 7,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18905,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 7,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18906,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18907,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18908,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18909,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18910,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18911,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18912,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18913,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18914,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18915,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 7,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18916,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18917,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18918,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 7,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18919,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18920,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 7,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 18921,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18922,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 7,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18923,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18924,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18925,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 7,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18926,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 7,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18927,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 7,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18928,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 7,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18929,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 7,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 18930,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18931,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 8,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18932,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18933,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 8,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18934,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18935,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18936,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18937,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 18938,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 8,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18939,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18940,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 18941,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18942,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 8,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 18943,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18944,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18945,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 8,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 18946,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18947,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18948,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 8,
+      "zoomId": 2,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 18949,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18950,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 8,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 18951,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 18952,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 18953,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 18954,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18955,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18956,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18957,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 18958,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 8,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 18959,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 8,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18960,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 8,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18961,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 8,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18962,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18963,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 18964,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 18965,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 18966,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 9,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 18967,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 9,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 18968,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 18969,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 18970,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 9,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 18971,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 18972,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 18973,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 18974,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 18975,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 18976,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 18977,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 18978,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 18979,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 9,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18980,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 18981,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 9,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 18982,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 18983,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 18984,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 9,
+      "zoomId": 3,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 18985,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 18986,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18987,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 18988,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 18989,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 9,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 18990,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 18991,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 18992,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 9,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 18993,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 9,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 18994,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 18995,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 10,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 18996,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 18997,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 10,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 18998,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 18999,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19000,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19001,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19002,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19003,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19004,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 10,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19005,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19006,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 10,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19007,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 10,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19008,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 10,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19009,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 10,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19010,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19011,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19012,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 10,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19013,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19014,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 10,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19015,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19016,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 10,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19017,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19018,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 10,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19019,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19020,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 10,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19021,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 10,
+      "zoomId": 4,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19022,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 10,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19023,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 10,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19024,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 10,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19025,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 10,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19026,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19027,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19028,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 11,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19029,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19030,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19031,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19032,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19033,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19034,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 11,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19035,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19036,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 11,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19037,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19038,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19039,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19040,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 11,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19041,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 11,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19042,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19043,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19044,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19045,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19046,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 11,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19047,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19048,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19049,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 11,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19050,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19051,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 11,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19052,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 11,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19053,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19054,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 11,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19055,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19056,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19057,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 11,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19058,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19059,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19060,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19061,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 12,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19062,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 12,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19063,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19064,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19065,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19066,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 12,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19067,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19068,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 12,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19069,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 12,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19070,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19071,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 12,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19072,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19073,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19074,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 12,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19075,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 12,
+      "zoomId": 5,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19076,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19077,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19078,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19079,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 12,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19080,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19081,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19082,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 12,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19083,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 12,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19084,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19085,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 12,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19086,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 12,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19087,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 12,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19088,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 12,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19089,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 12,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19090,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 13,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19091,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19092,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19093,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19094,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19095,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19096,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19097,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19098,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19099,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19100,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19101,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19102,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19103,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19104,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19105,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19106,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19107,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19108,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19109,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 13,
+      "zoomId": 6,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19110,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19111,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19112,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19113,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19114,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19115,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 13,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19116,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 13,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19117,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 13,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19118,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19119,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19120,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 13,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19121,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 13,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19122,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 14,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19123,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19124,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 14,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19125,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19126,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19127,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19128,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 14,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19129,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19130,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19131,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19132,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 14,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19133,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19134,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19135,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19136,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 14,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19137,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19138,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19139,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19140,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 14,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19141,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19142,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19143,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19144,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 14,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19145,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19146,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19147,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19148,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 14,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19149,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19150,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19151,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 14,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19152,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 14,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19153,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 14,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19154,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19155,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19156,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19157,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 15,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19158,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19159,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19160,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19161,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19162,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 15,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19163,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19164,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19165,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19166,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19167,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19168,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19169,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19170,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19171,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19172,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19173,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19174,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19175,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 15,
+      "zoomId": 7,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19176,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19177,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 15,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19178,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19179,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 15,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19180,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19181,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19182,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19183,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 15,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19184,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 15,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19185,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 15,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19186,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19187,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19188,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19189,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19190,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19191,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19192,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19193,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 16,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19194,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19195,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19196,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19197,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19198,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19199,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19200,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19201,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 16,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19202,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19203,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19204,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19205,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19206,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19207,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19208,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19209,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 16,
+      "zoomId": 8,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19210,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 16,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19211,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19212,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19213,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19214,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19215,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19216,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19217,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 16,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19218,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19219,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19220,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19221,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19222,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19223,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19224,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19225,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19226,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19227,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19228,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19229,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19230,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19231,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19232,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 17,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19233,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19234,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19235,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19236,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19237,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19238,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19239,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19240,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 17,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19241,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19242,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 17,
+      "zoomId": 9,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19243,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19244,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19245,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19246,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19247,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19248,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 17,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19249,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 17,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19250,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 18,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19251,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19252,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19253,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19254,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19255,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19256,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19257,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19258,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19259,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19260,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19261,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19262,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19263,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19264,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19265,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19266,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19267,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19268,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19269,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19270,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19271,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19272,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19273,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19274,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19275,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 18,
+      "zoomId": 10,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19276,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19277,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19278,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19279,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19280,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19281,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 18,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19282,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19283,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19284,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19285,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19286,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19287,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19288,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19289,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19290,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19291,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19292,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19293,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19294,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19295,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19296,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19297,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19298,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19299,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19300,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19301,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19302,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19303,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19304,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19305,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19306,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19307,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19308,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19309,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19310,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19311,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19312,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19313,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 19,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19314,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19315,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19316,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19317,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19318,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19319,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19320,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19321,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19322,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19323,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19324,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19325,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19326,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19327,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19328,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19329,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19330,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19331,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19332,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19333,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19334,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19335,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19336,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19337,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19338,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19339,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19340,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19341,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19342,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19343,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19344,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19345,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 20,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19346,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19347,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19348,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19349,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19350,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19351,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19352,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19353,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19354,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19355,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19356,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19357,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19358,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19359,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19360,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19361,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19362,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19363,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19364,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19365,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19366,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 36,
+      "duration": 4
+    },
+    {
+      "id": 19367,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19368,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19369,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19370,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19371,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19372,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19373,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19374,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19375,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19376,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19377,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 21,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19378,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19379,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19380,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    },
+    {
+      "id": 19381,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19382,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19383,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19384,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19385,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19386,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19387,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19388,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19389,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19390,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19391,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19392,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19393,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19394,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19395,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19396,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19397,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19398,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19399,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19400,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19401,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19402,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 164,
+      "duration": 4
+    },
+    {
+      "id": 19403,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19404,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19405,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 8,
+      "duration": 4
+    },
+    {
+      "id": 19406,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19407,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19408,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19409,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 22,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19410,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 196,
+      "duration": 4
+    },
+    {
+      "id": 19411,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19412,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19413,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 280,
+      "duration": 4
+    },
+    {
+      "id": 19414,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19415,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19416,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19417,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 32,
+      "duration": 4
+    },
+    {
+      "id": 19418,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19419,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 276,
+      "duration": 4
+    },
+    {
+      "id": 19420,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19421,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19422,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 80,
+      "duration": 4
+    },
+    {
+      "id": 19423,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19424,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 28,
+      "duration": 4
+    },
+    {
+      "id": 19425,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19426,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 140,
+      "duration": 4
+    },
+    {
+      "id": 19427,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19428,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 24,
+      "duration": 4
+    },
+    {
+      "id": 19429,
+      "dersAdi": "Edebiyat",
+      "hocaId": 58,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19430,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19431,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19432,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19433,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19434,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 148,
+      "duration": 4
+    },
+    {
+      "id": 19435,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19436,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19437,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19438,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19439,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19440,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19441,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 23,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 212,
+      "duration": 4
+    },
+    {
+      "id": 19442,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 20,
+      "duration": 4
+    },
+    {
+      "id": 19443,
+      "dersAdi": "Matematik",
+      "hocaId": 28,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 132,
+      "duration": 4
+    },
+    {
+      "id": 19444,
+      "dersAdi": "Matematik",
+      "hocaId": 26,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 68,
+      "duration": 4
+    },
+    {
+      "id": 19445,
+      "dersAdi": "Matematik",
+      "hocaId": 30,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 216,
+      "duration": 4
+    },
+    {
+      "id": 19446,
+      "dersAdi": "Fizik",
+      "hocaId": 35,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 272,
+      "duration": 4
+    },
+    {
+      "id": 19447,
+      "dersAdi": "Fizik",
+      "hocaId": 33,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 204,
+      "duration": 4
+    },
+    {
+      "id": 19448,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 72,
+      "duration": 4
+    },
+    {
+      "id": 19449,
+      "dersAdi": "Fizik",
+      "hocaId": 37,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 144,
+      "duration": 4
+    },
+    {
+      "id": 19450,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 16,
+      "duration": 4
+    },
+    {
+      "id": 19451,
+      "dersAdi": "Kimya",
+      "hocaId": 44,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 264,
+      "duration": 4
+    },
+    {
+      "id": 19452,
+      "dersAdi": "Kimya",
+      "hocaId": 40,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 224,
+      "duration": 4
+    },
+    {
+      "id": 19453,
+      "dersAdi": "Kimya",
+      "hocaId": 42,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 96,
+      "duration": 4
+    },
+    {
+      "id": 19454,
+      "dersAdi": "Biyoloji",
+      "hocaId": 51,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 284,
+      "duration": 4
+    },
+    {
+      "id": 19455,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 100,
+      "duration": 4
+    },
+    {
+      "id": 19456,
+      "dersAdi": "Biyoloji",
+      "hocaId": 49,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 200,
+      "duration": 4
+    },
+    {
+      "id": 19457,
+      "dersAdi": "Biyoloji",
+      "hocaId": 47,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 160,
+      "duration": 4
+    },
+    {
+      "id": 19458,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 136,
+      "duration": 4
+    },
+    {
+      "id": 19459,
+      "dersAdi": "Edebiyat",
+      "hocaId": 54,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 260,
+      "duration": 4
+    },
+    {
+      "id": 19460,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 76,
+      "duration": 4
+    },
+    {
+      "id": 19461,
+      "dersAdi": "Edebiyat",
+      "hocaId": 56,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 220,
+      "duration": 4
+    },
+    {
+      "id": 19462,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 292,
+      "duration": 4
+    },
+    {
+      "id": 19463,
+      "dersAdi": "Tarih",
+      "hocaId": 65,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 156,
+      "duration": 4
+    },
+    {
+      "id": 19464,
+      "dersAdi": "Tarih",
+      "hocaId": 63,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 84,
+      "duration": 4
+    },
+    {
+      "id": 19465,
+      "dersAdi": "Tarih",
+      "hocaId": 61,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 228,
+      "duration": 4
+    },
+    {
+      "id": 19466,
+      "dersAdi": "Ingilizce",
+      "hocaId": 70,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 288,
+      "duration": 4
+    },
+    {
+      "id": 19467,
+      "dersAdi": "Ingilizce",
+      "hocaId": 72,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 152,
+      "duration": 4
+    },
+    {
+      "id": 19468,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 4,
+      "duration": 4
+    },
+    {
+      "id": 19469,
+      "dersAdi": "Ingilizce",
+      "hocaId": 68,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 88,
+      "duration": 4
+    },
+    {
+      "id": 19470,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 208,
+      "duration": 4
+    },
+    {
+      "id": 19471,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 75,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 12,
+      "duration": 4
+    },
+    {
+      "id": 19472,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 77,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 92,
+      "duration": 4
+    },
+    {
+      "id": 19473,
+      "dersAdi": "Beden Egitimi",
+      "hocaId": 79,
+      "subeId": 24,
+      "zoomId": 0,
+      "turId": 0,
+      "startSlot": 268,
+      "duration": 4
+    }
+  ],
+  "dersYukleri": [
+    {
+      "id": 81,
+      "dersAdi": "Matematik",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 82,
+      "dersAdi": "Fizik",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 83,
+      "dersAdi": "Kimya",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 84,
+      "dersAdi": "Biyoloji",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 85,
+      "dersAdi": "Edebiyat",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 86,
+      "dersAdi": "Tarih",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 87,
+      "dersAdi": "Ingilizce",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 88,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 1,
+      "duration": 4
+    },
+    {
+      "id": 89,
+      "dersAdi": "Matematik",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 90,
+      "dersAdi": "Fizik",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 91,
+      "dersAdi": "Kimya",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 92,
+      "dersAdi": "Biyoloji",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 93,
+      "dersAdi": "Edebiyat",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 94,
+      "dersAdi": "Tarih",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 95,
+      "dersAdi": "Ingilizce",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 96,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 2,
+      "duration": 4
+    },
+    {
+      "id": 97,
+      "dersAdi": "Matematik",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 98,
+      "dersAdi": "Fizik",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 99,
+      "dersAdi": "Kimya",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 100,
+      "dersAdi": "Biyoloji",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 101,
+      "dersAdi": "Edebiyat",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 102,
+      "dersAdi": "Tarih",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 103,
+      "dersAdi": "Ingilizce",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 104,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 3,
+      "duration": 4
+    },
+    {
+      "id": 105,
+      "dersAdi": "Matematik",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 106,
+      "dersAdi": "Fizik",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 107,
+      "dersAdi": "Kimya",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 108,
+      "dersAdi": "Biyoloji",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 109,
+      "dersAdi": "Edebiyat",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 110,
+      "dersAdi": "Tarih",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 111,
+      "dersAdi": "Ingilizce",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 112,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 4,
+      "duration": 4
+    },
+    {
+      "id": 113,
+      "dersAdi": "Matematik",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 114,
+      "dersAdi": "Fizik",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 115,
+      "dersAdi": "Kimya",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 116,
+      "dersAdi": "Biyoloji",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 117,
+      "dersAdi": "Edebiyat",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 118,
+      "dersAdi": "Tarih",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 119,
+      "dersAdi": "Ingilizce",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 120,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 5,
+      "duration": 4
+    },
+    {
+      "id": 121,
+      "dersAdi": "Matematik",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 122,
+      "dersAdi": "Fizik",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 123,
+      "dersAdi": "Kimya",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 124,
+      "dersAdi": "Biyoloji",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 125,
+      "dersAdi": "Edebiyat",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 126,
+      "dersAdi": "Tarih",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 127,
+      "dersAdi": "Ingilizce",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 128,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 6,
+      "duration": 4
+    },
+    {
+      "id": 129,
+      "dersAdi": "Matematik",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 130,
+      "dersAdi": "Fizik",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 131,
+      "dersAdi": "Kimya",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 132,
+      "dersAdi": "Biyoloji",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 133,
+      "dersAdi": "Edebiyat",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 134,
+      "dersAdi": "Tarih",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 135,
+      "dersAdi": "Ingilizce",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 136,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 7,
+      "duration": 4
+    },
+    {
+      "id": 137,
+      "dersAdi": "Matematik",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 138,
+      "dersAdi": "Fizik",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 139,
+      "dersAdi": "Kimya",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 140,
+      "dersAdi": "Biyoloji",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 141,
+      "dersAdi": "Edebiyat",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 142,
+      "dersAdi": "Tarih",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 143,
+      "dersAdi": "Ingilizce",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 144,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 8,
+      "duration": 4
+    },
+    {
+      "id": 145,
+      "dersAdi": "Matematik",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 146,
+      "dersAdi": "Fizik",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 147,
+      "dersAdi": "Kimya",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 148,
+      "dersAdi": "Biyoloji",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 149,
+      "dersAdi": "Edebiyat",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 150,
+      "dersAdi": "Tarih",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 151,
+      "dersAdi": "Ingilizce",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 152,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 9,
+      "duration": 4
+    },
+    {
+      "id": 153,
+      "dersAdi": "Matematik",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 154,
+      "dersAdi": "Fizik",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 155,
+      "dersAdi": "Kimya",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 156,
+      "dersAdi": "Biyoloji",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 157,
+      "dersAdi": "Edebiyat",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 158,
+      "dersAdi": "Tarih",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 159,
+      "dersAdi": "Ingilizce",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 160,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 10,
+      "duration": 4
+    },
+    {
+      "id": 161,
+      "dersAdi": "Matematik",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 162,
+      "dersAdi": "Fizik",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 163,
+      "dersAdi": "Kimya",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 164,
+      "dersAdi": "Biyoloji",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 165,
+      "dersAdi": "Edebiyat",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 166,
+      "dersAdi": "Tarih",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 167,
+      "dersAdi": "Ingilizce",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 168,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 11,
+      "duration": 4
+    },
+    {
+      "id": 169,
+      "dersAdi": "Matematik",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 170,
+      "dersAdi": "Fizik",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 171,
+      "dersAdi": "Kimya",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 172,
+      "dersAdi": "Biyoloji",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 173,
+      "dersAdi": "Edebiyat",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 174,
+      "dersAdi": "Tarih",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 175,
+      "dersAdi": "Ingilizce",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 176,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 12,
+      "duration": 4
+    },
+    {
+      "id": 177,
+      "dersAdi": "Matematik",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 178,
+      "dersAdi": "Fizik",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 179,
+      "dersAdi": "Kimya",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 180,
+      "dersAdi": "Biyoloji",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 181,
+      "dersAdi": "Edebiyat",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 182,
+      "dersAdi": "Tarih",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 183,
+      "dersAdi": "Ingilizce",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 184,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 13,
+      "duration": 4
+    },
+    {
+      "id": 185,
+      "dersAdi": "Matematik",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 186,
+      "dersAdi": "Fizik",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 187,
+      "dersAdi": "Kimya",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 188,
+      "dersAdi": "Biyoloji",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 189,
+      "dersAdi": "Edebiyat",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 190,
+      "dersAdi": "Tarih",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 191,
+      "dersAdi": "Ingilizce",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 192,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 14,
+      "duration": 4
+    },
+    {
+      "id": 193,
+      "dersAdi": "Matematik",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 194,
+      "dersAdi": "Fizik",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 195,
+      "dersAdi": "Kimya",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 196,
+      "dersAdi": "Biyoloji",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 197,
+      "dersAdi": "Edebiyat",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 198,
+      "dersAdi": "Tarih",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 199,
+      "dersAdi": "Ingilizce",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 200,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 15,
+      "duration": 4
+    },
+    {
+      "id": 201,
+      "dersAdi": "Matematik",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 202,
+      "dersAdi": "Fizik",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 203,
+      "dersAdi": "Kimya",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 204,
+      "dersAdi": "Biyoloji",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 205,
+      "dersAdi": "Edebiyat",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 206,
+      "dersAdi": "Tarih",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 207,
+      "dersAdi": "Ingilizce",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 208,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 16,
+      "duration": 4
+    },
+    {
+      "id": 209,
+      "dersAdi": "Matematik",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 210,
+      "dersAdi": "Fizik",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 211,
+      "dersAdi": "Kimya",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 212,
+      "dersAdi": "Biyoloji",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 213,
+      "dersAdi": "Edebiyat",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 214,
+      "dersAdi": "Tarih",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 215,
+      "dersAdi": "Ingilizce",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 216,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 17,
+      "duration": 4
+    },
+    {
+      "id": 217,
+      "dersAdi": "Matematik",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 218,
+      "dersAdi": "Fizik",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 219,
+      "dersAdi": "Kimya",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 220,
+      "dersAdi": "Biyoloji",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 221,
+      "dersAdi": "Edebiyat",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 222,
+      "dersAdi": "Tarih",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 223,
+      "dersAdi": "Ingilizce",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 224,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 18,
+      "duration": 4
+    },
+    {
+      "id": 225,
+      "dersAdi": "Matematik",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 226,
+      "dersAdi": "Fizik",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 227,
+      "dersAdi": "Kimya",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 228,
+      "dersAdi": "Biyoloji",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 229,
+      "dersAdi": "Edebiyat",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 230,
+      "dersAdi": "Tarih",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 231,
+      "dersAdi": "Ingilizce",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 232,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 19,
+      "duration": 4
+    },
+    {
+      "id": 233,
+      "dersAdi": "Matematik",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 234,
+      "dersAdi": "Fizik",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 235,
+      "dersAdi": "Kimya",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 236,
+      "dersAdi": "Biyoloji",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 237,
+      "dersAdi": "Edebiyat",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 238,
+      "dersAdi": "Tarih",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 239,
+      "dersAdi": "Ingilizce",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 240,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 20,
+      "duration": 4
+    },
+    {
+      "id": 241,
+      "dersAdi": "Matematik",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 242,
+      "dersAdi": "Fizik",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 243,
+      "dersAdi": "Kimya",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 244,
+      "dersAdi": "Biyoloji",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 245,
+      "dersAdi": "Edebiyat",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 246,
+      "dersAdi": "Tarih",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 247,
+      "dersAdi": "Ingilizce",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 248,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 21,
+      "duration": 4
+    },
+    {
+      "id": 249,
+      "dersAdi": "Matematik",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 250,
+      "dersAdi": "Fizik",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 251,
+      "dersAdi": "Kimya",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 252,
+      "dersAdi": "Biyoloji",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 253,
+      "dersAdi": "Edebiyat",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 254,
+      "dersAdi": "Tarih",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 255,
+      "dersAdi": "Ingilizce",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 256,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 22,
+      "duration": 4
+    },
+    {
+      "id": 257,
+      "dersAdi": "Matematik",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 258,
+      "dersAdi": "Fizik",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 259,
+      "dersAdi": "Kimya",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 260,
+      "dersAdi": "Biyoloji",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 261,
+      "dersAdi": "Edebiyat",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 262,
+      "dersAdi": "Tarih",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 263,
+      "dersAdi": "Ingilizce",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 264,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 23,
+      "duration": 4
+    },
+    {
+      "id": 265,
+      "dersAdi": "Matematik",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 266,
+      "dersAdi": "Fizik",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 267,
+      "dersAdi": "Kimya",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 268,
+      "dersAdi": "Biyoloji",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 269,
+      "dersAdi": "Edebiyat",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 270,
+      "dersAdi": "Tarih",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 271,
+      "dersAdi": "Ingilizce",
+      "subeId": 24,
+      "duration": 4
+    },
+    {
+      "id": 272,
+      "dersAdi": "Beden Egitimi",
+      "subeId": 24,
+      "duration": 4
+    }
+  ],
+  "hocaDersler": [
+    {
+      "id": 27,
+      "hocaId": 26,
+      "dersAdi": "Matematik"
+    },
+    {
+      "id": 29,
+      "hocaId": 28,
+      "dersAdi": "Matematik"
+    },
+    {
+      "id": 31,
+      "hocaId": 30,
+      "dersAdi": "Matematik"
+    },
+    {
+      "id": 34,
+      "hocaId": 33,
+      "dersAdi": "Fizik"
+    },
+    {
+      "id": 36,
+      "hocaId": 35,
+      "dersAdi": "Fizik"
+    },
+    {
+      "id": 38,
+      "hocaId": 37,
+      "dersAdi": "Fizik"
+    },
+    {
+      "id": 41,
+      "hocaId": 40,
+      "dersAdi": "Kimya"
+    },
+    {
+      "id": 43,
+      "hocaId": 42,
+      "dersAdi": "Kimya"
+    },
+    {
+      "id": 45,
+      "hocaId": 44,
+      "dersAdi": "Kimya"
+    },
+    {
+      "id": 48,
+      "hocaId": 47,
+      "dersAdi": "Biyoloji"
+    },
+    {
+      "id": 50,
+      "hocaId": 49,
+      "dersAdi": "Biyoloji"
+    },
+    {
+      "id": 52,
+      "hocaId": 51,
+      "dersAdi": "Biyoloji"
+    },
+    {
+      "id": 55,
+      "hocaId": 54,
+      "dersAdi": "Edebiyat"
+    },
+    {
+      "id": 57,
+      "hocaId": 56,
+      "dersAdi": "Edebiyat"
+    },
+    {
+      "id": 59,
+      "hocaId": 58,
+      "dersAdi": "Edebiyat"
+    },
+    {
+      "id": 62,
+      "hocaId": 61,
+      "dersAdi": "Tarih"
+    },
+    {
+      "id": 64,
+      "hocaId": 63,
+      "dersAdi": "Tarih"
+    },
+    {
+      "id": 66,
+      "hocaId": 65,
+      "dersAdi": "Tarih"
+    },
+    {
+      "id": 69,
+      "hocaId": 68,
+      "dersAdi": "Ingilizce"
+    },
+    {
+      "id": 71,
+      "hocaId": 70,
+      "dersAdi": "Ingilizce"
+    },
+    {
+      "id": 73,
+      "hocaId": 72,
+      "dersAdi": "Ingilizce"
+    },
+    {
+      "id": 76,
+      "hocaId": 75,
+      "dersAdi": "Beden Egitimi"
+    },
+    {
+      "id": 78,
+      "hocaId": 77,
+      "dersAdi": "Beden Egitimi"
+    },
+    {
+      "id": 80,
+      "hocaId": 79,
+      "dersAdi": "Beden Egitimi"
+    }
+  ],
+  "sonrakiID": 19474
+}

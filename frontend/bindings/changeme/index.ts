@@ -7,3 +7,9 @@ export {
     GreetService,
     VeriService
 };
+
+export type {
+    DersYuku,
+    HocaDers,
+    ProgramOturumu
+} from "./models.js";

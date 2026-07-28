@@ -9,6 +9,12 @@ type Hoca struct {
 	Ad string
 }
 
+// Ders, bir branşı/kursu (ör. "Matematik") temsil eder.
+type Ders struct {
+	ID int
+	Ad string
+}
+
 // Sube, bir sınıf/şube (ör. "9-A").
 type Sube struct {
 	ID int

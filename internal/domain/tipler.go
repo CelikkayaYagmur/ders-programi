@@ -4,8 +4,8 @@ package domain
 
 // Programın boyutları. Bunlar ayardır, kolayca değiştirilebilir.
 const (
-	GunSayisi  = 5 // Pazartesi..Cuma
-	GunlukDers = 8 // her günde 8 ders saati
+	GunSayisi  = 7  // Pazartesi..Pazar
+	GunlukDers = 64 // her günde 64 ders saati (çeyrek saatler)
 )
 
 // Slot, haftadaki tek bir ders saatini temsil eden tam sayıdır (0..39).

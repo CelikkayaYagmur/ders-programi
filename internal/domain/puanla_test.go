@@ -32,8 +32,8 @@ func TestPuanla_YayilmisProgramYigilmadanIyidir(t *testing.T) {
 
 	// Hepsi Pazartesi'ye yığılmış (slot 0,1,2,3 -> hepsi gün 0).
 	yigilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: 1, 3: 2, 4: 3}}
-	// Pzt-Sal-Çar-Per'e dağılmış (slot 0,8,16,24 -> gün 0,1,2,3).
-	yayilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: 8, 3: 16, 4: 24}}
+	// Pzt-Sal-Çar-Per'e dağılmış (slot 0, GunlukDers, 2*GunlukDers, 3*GunlukDers -> gün 0,1,2,3).
+	yayilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: Slot(GunlukDers), 3: Slot(2 * GunlukDers), 4: Slot(3 * GunlukDers)}}
 
 	puanYigilmis := Puanla(oturumlar, yigilmis)
 	puanYayilmis := Puanla(oturumlar, yayilmis)
@@ -53,13 +53,13 @@ func TestPuanla_GunDengesiAyniIkenYigilmaAzOlanIyidir(t *testing.T) {
 		{ID: 4, DersAdi: "Fizik", SubeID: 100},
 	}
 
-	// Yığılmış: her ders kendi gününe toplanmış. Mat -> Pzt (0,1), Fiz -> Sal (8,9).
+	// Yığılmış: her ders kendi gününe toplanmış. Mat -> Pzt (0,1), Fiz -> Sal (GunlukDers, GunlukDers+1).
 	// Şubenin günlük dağılımı: Pzt 2, Sal 2.
-	yigilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: 1, 3: 8, 4: 9}}
+	yigilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: 1, 3: Slot(GunlukDers), 4: Slot(GunlukDers + 1)}}
 
-	// Yayılmış: her ders iki güne bölünmüş. Mat -> Pzt+Sal (0,8), Fiz -> Pzt+Sal (1,9).
+	// Yayılmış: her ders iki güne bölünmüş. Mat -> Pzt+Sal (0, GunlukDers), Fiz -> Pzt+Sal (1, GunlukDers+1).
 	// Şubenin günlük dağılımı YİNE: Pzt 2, Sal 2 (yani gün dengesi birebir aynı).
-	yayilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: 8, 3: 1, 4: 9}}
+	yayilmis := Program{Yerlesim: map[int]Slot{1: 0, 2: Slot(GunlukDers), 3: 1, 4: Slot(GunlukDers + 1)}}
 
 	puanYigilmis := Puanla(oturumlar, yigilmis)
 	puanYayilmis := Puanla(oturumlar, yayilmis)
