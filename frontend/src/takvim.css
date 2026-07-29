@@ -892,8 +892,8 @@ input[type="text"].column-search-input:focus {
 /* Custom Print Styles */
 @media print {
   @page {
-    size: A2 landscape;
-    margin: 20mm;
+    size: A3 portrait;
+    margin: 5mm;
   }
 
   .global-header {
@@ -957,12 +957,30 @@ input[type="text"].column-search-input:focus {
     margin: 0 !important;
   }
 
-  .takvim-tablo {
+  .takvim-tablo:not(.has-weekends) {
     max-height: none !important;
     height: auto !important;
     overflow: visible !important;
     border: none !important;
     box-shadow: none !important;
+    grid-template-columns: 80px repeat(5, 1fr) !important; /* Only 5 days */
+  }
+
+  .takvim-tablo.has-weekends {
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+    border: none !important;
+    box-shadow: none !important;
+    grid-template-columns: 80px repeat(7, 1fr) !important; /* 7 days */
+  }
+
+  /* Hide weekends for print to save space, but only if they are empty */
+  .takvim-tablo:not(.has-weekends) .takvim-gun-baslik:nth-child(7),
+  .takvim-tablo:not(.has-weekends) .takvim-gun-baslik:nth-child(8),
+  .takvim-tablo:not(.has-weekends) .takvim-gun-kolon[data-gun="5"],
+  .takvim-tablo:not(.has-weekends) .takvim-gun-kolon[data-gun="6"] {
+    display: none !important;
   }
 
   .takvim-sayfa {

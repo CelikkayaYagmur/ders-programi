@@ -416,7 +416,7 @@ export function Takvim({ onNavigate, activePage }: TakvimProps) {
         aramaDersAdi={aramaDersAdi} setAramaDersAdi={setAramaDersAdi}
       />
 
-      <div className="takvim-tablo">
+      <div className={`takvim-tablo ${seciliOturumlar.some(o => Math.floor(o.startSlot / GUNLUK_DERS) >= 5) ? 'has-weekends' : ''}`}>
         <div className="takvim-kose"></div>
         {GUNLER.map(g => <div key={g} className="takvim-gun-baslik">{g}</div>)}
 
